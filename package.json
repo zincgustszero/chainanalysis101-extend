@@ -1,0 +1,39 @@
+{
+  "name": "chainanalysis101-extend",
+  "version": "1.0.0",
+  "description": "Extend the capabilities of ChainAnalysis101 with additional tools and features for in-depth blockchain analysis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zincgustszero/chainanalysis101-extend"
+  },
+  "author": "zincgustszero",
+  "license": "MIT",
+  "dependencies": {
+    "chainanalysis101": "1.0.0",
+    "chainanalysis101-extend": "1.0.0",
+    "dotenv": "1.0.0",
+    "eslint": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "webpack": "1.0.0",
+    "mongoose": "1.0.0",
+    "nodemon": "1.0.0",
+    "chalk": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "ethers": "1.0.0",
+    "multer": "1.0.0",
+    "express": "1.0.0",
+    "bluebird": "1.0.0",
+    "web3": "1.0.0",
+    "axios": "1.0.0",
+    "fs-extra": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "moment": "1.0.0",
+    "firebase": "1.0.0",
+    "solc": "1.0.0",
+    "ethereumjs-util": "1.0.0"
+  }
+}
